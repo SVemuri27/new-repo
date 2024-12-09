@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        hloo
+        home page
       </div>
     </>
   )
